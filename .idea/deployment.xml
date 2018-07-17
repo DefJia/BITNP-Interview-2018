@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="121">
+    <serverData>
+      <paths name="121">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Documents/Defjia/Interview-2018/" local="$PROJECT_DIR$" web=":4321" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
